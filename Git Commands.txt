@@ -15,3 +15,8 @@ The basic Git syntax is program | action | destination.
     git add . is read as git | add | ., where the period represents everything in the current directory;
     git commit -m "message" is read as git | commit -m | "message"; and
     git status is read as git | status | (no destination).
+
+Easy publish (copy paste)
+    git add .
+    git commit -m "Regular Save"
+    git push
