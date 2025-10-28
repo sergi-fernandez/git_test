@@ -17,6 +17,7 @@ The basic Git syntax is program | action | destination.
     git status is read as git | status | (no destination).
 
 Easy publish (copy paste)
+    git init .
     git add .
     git commit -m "Regular Save"
     git push
