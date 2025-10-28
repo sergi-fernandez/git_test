@@ -1,6 +1,8 @@
+git remote add origin https://github.com/sergi-fernandez/git_test.git
+
 Commands related to a remote repository:
     git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
-    git push or git push origin main (Both accomplish the same goal in this context)
+    git push origin main
 
 Commands related to the workflow:
     git add .
@@ -21,5 +23,3 @@ Easy publish (copy paste)
     git add .
     git commit -m "Regular Save"
     git push
-
-git remote add origin https://github.com/sergi-fernandez/git_test.git
