@@ -21,3 +21,5 @@ Easy publish (copy paste)
     git add .
     git commit -m "Regular Save"
     git push
+
+git remote add origin https://github.com/sergi-fernandez/git_test.git
